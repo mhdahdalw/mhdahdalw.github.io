@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome"
+date:   2022-05-31 13:27:48 -0700
+categories: Personal
+---
+
+Welcome to My personal site,
+I will put more info about my Projects and Publications as soon as possible,
+
+currently I'm mworking on flight simulator for airborne wind energy aka AWE systems,
+and some cfd projects on aerodynamic dampings coefficents of a usual aircrafts.
+
+Thanks.
+Mahdi Ahmadi
+
